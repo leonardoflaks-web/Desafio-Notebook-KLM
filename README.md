@@ -95,3 +95,8 @@ Certifique-se de que o Companion App (aplicativo móvel) está configurado no se
 Gostaria que eu explicasse como configurar a Alexa para falar textos específicos (TTS) através do Home Assistant Cloud ou prefere focar na configuração das notificações pelo celular primeiro?
 
 **********************************************************************************************************************************************************************************************************************************************************
+
+Conclusāo:
+
+Com simples perguntas, fui capaz de instalar o home assistant que me deu o passo a passo e fazer minha primeira automaçāo.
+
